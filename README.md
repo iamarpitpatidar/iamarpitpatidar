@@ -1,5 +1,5 @@
 ### <samp>**> Hi there 👋, I'm Arpit**</samp>
-A passionate backend developer from India
+A passionate backend developer from India who likes to play around with computers and all.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamarpitpatidar&label=Profile%20views&color=0e75b6&style=flat" alt="iamarpitpatidar" /></p>
 
